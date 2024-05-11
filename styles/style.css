@@ -303,11 +303,12 @@ ol {
 }
 
 .more-button {
-  padding-inline: 136px;
+  padding-inline: 145px;
   white-space: nowrap;
 }
 
 .more-button:focus-visible {
+  padding-inline: 142px;
   margin-inline-start: 3px;
   margin-block-end: 3px;
   outline: 1px solid white;
